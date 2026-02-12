@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ManeJadid</string>
+    <string name="title_activity_main">ManeJadid</string>
+    <string name="package_name">mane.jadid.app</string>
+    <string name="custom_url_scheme">mane.jadid.app</string>
+</resources>
